@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yousufhaian@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1d-aSiKtMFe-46zYsM-uZcT132acrEz_sgySbLMuS5Ic/edit?usp=sharing](https://docs.google.com/document/d/1d-aSiKtMFe-46zYsM-uZcT132acrEz_sgySbLMuS5Ic/edit?usp=sharing)
+
 
 - ⚡ Fun fact **I'm a good prolbem solver**
 
