@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm yousef sultan</h1>
-<h3 align="center">A passionate computer science student from Palestine</h3>
+<h3 align="center">A software engineer from Palestine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefsultan0&label=Profile%20views&color=0e75b6&style=flat" alt="yousefsultan0" /> </p>
-
-- 🌱 I’m currently working on my **graduation project**
-
+- I have a bachelor's degree in computer science from Palestine Polytechnic University
+<br>
+- Ex-Intern SWE at noon
+<br>
+- ACPC Finalist
+<br>
 - 📫 How to reach me **yousufhaian@gmail.com**
 
 
-
-- ⚡ Fun fact **I'm a good prolbem solver**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
